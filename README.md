@@ -1,1 +1,1 @@
-peering.qix.ca
+geofeed.canix.ca
